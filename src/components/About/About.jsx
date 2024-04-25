@@ -17,15 +17,11 @@ const About = () => {
         <div className="about-rigth">
           <div className="about-para">
             <p>
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quaerat
-              iste fugiat consequuntur magni quisquam eos unde! Neque quas,
-              mollitia temporibus ad quo aspernatur id laboriosam nihil minus
-              eaque dicta iusto!
+              I am a student of computer systems engineering at the
+              technological institute of laguna, I love any subject related to
+              technology and every day I learn more in a self-taught way.
             </p>
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe
-              fugit natus laboriosam sunt sed, officiis quis enim, dolorum.
-            </p>
+            <p>✨ My favorite language is java</p>
           </div>
           <div className="about-skills">
             <div className="about-skill">
