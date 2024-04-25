@@ -3,8 +3,8 @@ import "./Navbar.css";
 import logo from "../../assets/logo.svg"; // Importa la imagen de logo.svg
 const Navbar = () => {
   return (
-    <div className="Navbar">
-        <img src={logo} alt="Logo"/> {/* Usa la variable 'logo' para mostrar la imagen */}
+    <div className="navbar">
+        <img src={logo} alt="Logo"/>
         <ul className="nav-menu">
           <li>Home</li>
           <li>About Me</li>
@@ -13,6 +13,7 @@ const Navbar = () => {
           <li>Contact</li>
         </ul>
         <div className='nav-connect'>Connect with me</div>
+         
     </div>
   );
 }
